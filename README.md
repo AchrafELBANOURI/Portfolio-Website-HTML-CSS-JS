@@ -10,4 +10,5 @@ Since this is my first portfolio website, I’m reworking it on my new PC. I pla
 - Tailwind CSS for styling
 - Framer Motion or GSAP for animations
 - Appwrite for the backend (still thinking about it)
+
 I’ll be working on this project in June, so stay tuned for updates!
